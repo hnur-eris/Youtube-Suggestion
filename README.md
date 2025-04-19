@@ -1,4 +1,4 @@
-# Video Recommendation System
+# Youtube Recommendation System
 
 A content-based recommendation system for videos using FastAPI, PostgreSQL, and machine learning techniques.
 
